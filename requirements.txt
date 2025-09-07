@@ -1,0 +1,128 @@
+# Core Deep Learning Framework
+torch==1.12.0
+torchaudio==0.12.0
+torchvision==0.13.0
+
+# Scientific Computing and Computer Vision
+numpy==1.23.5
+scipy==1.9.3
+opencv-python==4.5.3.56
+scikit-image==0.19.3
+pillow==9.3.0
+imageio==2.22.4
+kornia
+
+# Machine Learning and Utilities
+timm==0.6.12
+einops==0.6.0
+tqdm==4.64.1
+pywavelets==1.4.1
+
+# Configuration and Data Handling
+omegaconf==2.3.0
+pyyaml==6.0
+packaging==21.3
+
+# Visualization and Logging
+tensorboard==2.10.1
+tensorboard-data-server==0.6.1
+tensorboard-plugin-wit==1.8.1
+
+# Image Quality Assessment (BasicSR Dependencies)
+lpips
+basicsr
+facexlib
+gfpgan
+realesrgan
+
+# Diffusion Models and Transformers
+diffusers
+transformers
+accelerate
+huggingface-hub==0.11.1
+
+# Web and Network Utilities
+requests==2.28.1
+urllib3==1.26.13
+certifi
+beautifulsoup4==4.11.1
+filelock==3.8.2
+gdown==4.6.0
+
+# Google Services (for model downloads)
+google-auth==2.14.1
+google-auth-oauthlib==0.4.6
+google-pasta==0.2.0
+grpcio==1.50.0
+
+# TensorFlow (if needed for some components)
+tensorflow-gpu==2.10.0
+tensorflow-estimator==2.10.0
+keras==2.10.0
+keras-preprocessing==1.1.2
+
+# Development and Debugging
+ipython==8.7.0
+ipdb==0.13.9
+jedi==0.18.2
+
+# Data Processing
+h5py==3.7.0
+networkx==2.8.8
+tifffile==2022.10.10
+
+# Utility Libraries
+absl-py==1.3.0
+antlr4-python3-runtime==4.9.3
+asttokens==2.2.0
+astunparse==1.6.3
+backcall==0.2.0
+cachetools==5.2.0
+charset-normalizer==2.1.1
+decorator==5.1.1
+executing==1.2.0
+flatbuffers==22.11.23
+gast==0.4.0
+idna==3.4
+importlib-metadata==5.1.0
+libclang==14.0.6
+markdown==3.4.1
+markupsafe==2.1.1
+matplotlib-inline==0.1.6
+oauthlib==3.2.2
+opt-einsum==3.3.0
+parso==0.8.3
+pexpect==4.8.0
+pickleshare==0.7.5
+prompt-toolkit==3.0.33
+protobuf==3.19.6
+ptyprocess==0.7.0
+pure-eval==0.2.2
+pyasn1==0.4.8
+pyasn1-modules==0.2.8
+pygments==2.13.0
+pyparsing==3.0.9
+pysocks==1.7.1
+requests-oauthlib==1.3.1
+rsa==4.9
+six==1.16.0
+soupsieve==2.3.2.post1
+stack-data==0.6.2
+termcolor==2.1.1
+toml==0.10.2
+traitlets==5.5.0
+typing-extensions==4.4.0
+wcwidth==0.2.5
+werkzeug==2.2.2
+wrapt==1.14.1
+zipp==3.11.0
+
+# Additional KDD-SemNOMA specific dependencies
+matplotlib>=3.4.0
+seaborn>=0.11.0
+pandas>=1.3.0
+scikit-learn>=1.0.0
+pathlib2>=2.3.6
+
+# Image Quality Metrics
+pytorch-fid
