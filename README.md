@@ -175,7 +175,7 @@ The framework supports comprehensive evaluation using multiple metrics:
 
 ### 🌐 Semantic NOMA Architecture
 
-![KDD-SemNOMA Architecture](images\SemNOMA.jpg)
+![KDD-SemNOMA Architecture](images/SemNOMA.jpg)
 
 Our innovative approach combines semantic communication with NOMA:
 
@@ -185,7 +185,7 @@ Our innovative approach combines semantic communication with NOMA:
 
 ### 📚 Knowledge Distillation in Semantic Communication
 
-![KDD-SemNOMA Architecture](images\KD-SemNOMA.jpg)
+![KDD-SemNOMA Architecture](images/KD-SemNOMA.jpg)
 
 Knowledge Distillation enables efficient knowledge transfer from complex teacher networks to lightweight student networks:
 
@@ -196,7 +196,7 @@ Knowledge Distillation enables efficient knowledge transfer from complex teacher
 
 ### ✨ Diffusion Model Enhancement
 
-![KDD-SemNOMA Architecture](images\KDD-SemNOMA.jpg)
+![KDD-SemNOMA Architecture](images/KDD-SemNOMA.jpg)
 
 Diffusion models provide superior image reconstruction:
 
@@ -226,4 +226,5 @@ Contributions are welcome! Please read our [Contributing Guidelines](CONTRIBUTIN
 
 <div align="center">
   <sub>Built with ❤️ for advancing semantic communication research</sub>
+
 </div>
